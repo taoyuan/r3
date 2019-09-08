@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/taoyuan/r3",
   "devDependencies": {
-    "chai": "^1.9.1",
-    "mosca": "^0.19.1"
+    "chai": "^4.2.0",
+    "mosca": "^2.8.3"
   }
 }
