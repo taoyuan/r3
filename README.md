@@ -1,3 +1,6 @@
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/taoyuan/r3.svg)](https://greenkeeper.io/)
+
 r3
 ==
 
